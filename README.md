@@ -21,7 +21,9 @@ This repository contains the design files for a custom **Raspberry Pi Pico break
 🔹 **Compatible for both Leverless and Traditional Arcade Stick builds**  
 
 ## Assembly  
-The PCB can be fully hand soldered, but soldering the SMD components might be easier by using a hotplate. To make use of the USB Type B Jack Port and the external USB pins, the testpads on the back of the Rasperry Pi Pico have to be soldered. ![Description](images/pico-testpads.png)
+The PCB can be fully hand soldered, but soldering the SMD components might be easier by using a hotplate. To make use of the USB Type B Jack Port and the external USB pins, the testpads on the back of the Rasperry Pi Pico have to be soldered.
+
+![testpads](images/pico-testpads.png)
 ## Components  
 - **Raspberry Pi Pico (Version 1)**  [image](images/pico.jpg) [component location](images/component%20locations/obPico.png)
 - **3x6x2.5MM Momentary Tact SMD** (Amount: 1)  [component location](images/component%20locations/obButton.png)
