@@ -24,18 +24,18 @@ This repository contains the design files for a custom **Raspberry Pi Pico break
 The PCB can be fully hand soldered, but soldering the SMD components might be easier by using a hotplate.
 
 ## Components  
-- **Raspberry Pi Pico (Version 1)**  
-- **3x6x2.5MM Momentary Tact SMD** (Amount: 1)  
-- **USB Type B Jack Port** (Amount: 1) *(This can be omitted. The USB-Connector of the Pico can be used directly instead)*  
-- **USB Type A Port** *(Used for USB-Passthrough dongles)*  
-- **22Ohm resistors, package type 0603** (Amount: 2)  
-- **4.7K Ohm resistors, package type 1206** (Amount: 2)  
-- **MF-PSMF050X-2 SMD Fuse, package type 0805** (Amount: 1) – [More](https://www.mouser.de/ProductDetail/Bourns/MF-PSMF050X-2?qs=89sKJMJLNwxOThYF3e0Dgg%3D%3D)  
-- **KF350 3.5mm pitch 3Pin screwterminal** (Amount: 7)  
-- **KF350 3.5mm pitch 2Pin screwterminal** (Amount: 1)  
-- **JST PH 2.0mm 2pin straight male header** (Amount: 3)  
-- **JST PH 2.0mm 3pin straight male header** (Amount: 1)  
-- **JST PH 2.0mm 4pin straight male header** (Amount: 3)  
-- **JST XH 2.54mm 3pin straight male header** (Amount: 1)  
-- **2x10 2.54mm pitch straight male header** (Amount: 1)  
-- **1x5 2.54mm pitch straight male header** (Amount: 2)
+- **Raspberry Pi Pico (Version 1)**  [image](images/pico.jpg) [component location](images/component%20locations/obPico.png)
+- **3x6x2.5MM Momentary Tact SMD** (Amount: 1)  [component location](images/component%20locations/obButton.png)
+- **USB Type B Jack Port** (Amount: 1) *(This can be omitted. The USB-Connector of the Pico can be used directly instead)* [component location](images/component%20locations/obUSB-B.png) 
+- **USB Type A Port** *(Used for USB-Passthrough dongles)*  [component location](images/component%20locations/obUSB-A.png)
+- **22Ohm resistors, package type 0603** (Amount: 2)  [component location](images/component%20locations/ob22.png)
+- **4.7K Ohm resistors, package type 1206** (Amount: 2)  [component location](images/component%20locations/ob47k.png)
+- **MF-PSMF050X-2 SMD Fuse, package type 0805** (Amount: 1) – [More](https://www.mouser.de/ProductDetail/Bourns/MF-PSMF050X-2?qs=89sKJMJLNwxOThYF3e0Dgg%3D%3D)  [component location](images/component%20locations/obFuse.png)
+- **KF350 3.5mm pitch 3Pin screwterminal** (Amount: 7)  [component location](images/component%20locations/obScrew3.png)
+- **KF350 3.5mm pitch 2Pin screwterminal** (Amount: 1)  [component location](images/component%20locations/obScrew2.png)
+- **JST PH 2.0mm 2pin straight male header** (Amount: 3)  [component location](images/component%20locations/obPH2.png)
+- **JST PH 2.0mm 3pin straight male header** (Amount: 1)  [component location](images/component%20locations/obPH3.png)
+- **JST PH 2.0mm 4pin straight male header** (Amount: 3)  [component location](images/component%20locations/obPH4.png)
+- **JST XH 2.54mm 3pin straight male header** (Amount: 1)  [component location](images/component%20locations/obXH3.png)
+- **2x10 2.54mm pitch straight male header** (Amount: 1)  [component location](images/component%20locations/ob20.png)
+- **1x5 2.54mm pitch straight male header** (Amount: 2)    [component location](images/component%20locations/ob5p.png)
