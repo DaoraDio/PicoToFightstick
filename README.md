@@ -40,3 +40,14 @@ The PCB can be fully hand soldered, but soldering the SMD components might be ea
 - **JST XH 2.54mm 3pin straight male header** (Amount: 1)  [component location](images/component%20locations/obXH3.png)
 - **2x10 2.54mm pitch straight male header** (Amount: 1)  [component location](images/component%20locations/ob20.png)
 - **1x5 2.54mm pitch straight male header** (Amount: 2)    [component location](images/component%20locations/ob5p.png)
+
+## PCB
+The PCB was created with EasyEDA and the design file for it, as well as premade gerber files are included in 📁 PCB Design Files
+
+## Firmware
+Fully configured and compiled firmware can be found in 📁 firmware.
+To flash new firmware, hold the "Bootsel" button on the Pico and plug it into a PC. First reset the device to factory setting by drag & dropping the "flash_nuke.uf2" into the directory that opens. Afterwards drag & drop a firmware file, (e.g GP2040-CE_0.7.10_PicoToArcade.uf2) into the directory that opens.
+
+## Credits
+This design is a refined and customized version of the pico-advanced-breakout-board by [TheTrain](https://github.com/TheTrainGoes). A huge thanks to him for his work in creating and sharing the original design and the GP2040-CE community for creating the fantastic software.
+
